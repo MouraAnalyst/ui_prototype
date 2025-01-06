@@ -25,7 +25,6 @@ fuzzywuzzy = "==0.18.0"
 greenlet = "==3.0.3"
 h11 = "==0.14.0"
 idna = "==3.6"
-ipykernel = "==6.28.0"
 ipython = "==8.19.0"
 jedi = "==0.19.1"
 jinja2 = "==3.1.2"
@@ -101,6 +100,9 @@ wsproto = "==1.2.0"
 streamlit = "*"
 toolz = "*"
 vega-datasets = "*"
+notebook = "*"
+ipykernel = "*"
+openai = "==0.28"
 
 [dev-packages]
 
