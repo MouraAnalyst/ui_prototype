@@ -23,7 +23,7 @@ Este repositorio contiene un proyecto que demuestra el uso de **Streamlit**, una
 - Explora un ejemplo práctico inicial sobre cómo trabajar con datos de Uber.
 - Aprende a utilizar gráficos interactivos para visualizar patrones y tendencias.
 
-### ✅ **Integración de IA (Próximamente)**
+### ✅ **Integración de IA**
 - Planeamos expandir este proyecto para incluir modelos de lenguaje como OpenAI, ofreciendo capacidades de chat e interacción avanzada.
 
 ---
