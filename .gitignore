@@ -21,6 +21,7 @@ var/
 *.egg
 *.toml
 ChatGPT-Clone_demo/.streamlit/
+.env
 
 
 # Installer logs
